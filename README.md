@@ -1,5 +1,5 @@
 # Overview
-This project is a .NET Windows Forms recreation of the Intel Intrinsic Guide website, with additional search options like vector size, type, and masked variations. This is mostly created as an excuse to learn WinForms and because of how much AVX-512 has bloated things. Some entries are missing information or notes and thus may be misleading or broken in various non-obvious ways. Please refer to Intel’s website (or better yet, their developer manual) for anything important.
+This project is a .NET Windows Forms recreation of the [Intel Intrinsic Guide website](https://www.intel.com/content/www/us/en/docs/intrinsics-guide/index.html), with additional search options like vector size, type, and masked variations. This is mostly created as an excuse to learn WinForms and because of how much AVX-512 has bloated things. Some entries are missing information or notes and thus may be misleading or broken in various non-obvious ways. Please refer to Intel’s website (or better yet, their developer manual) for anything important.
 
 Intel’s Intrinsic Guide is an excellent online resource documenting their x86 intrinsics, which are C wrappers around individual x86-64 machine instructions. Most of them are Single Instruction, Multiple Data intrinsics which allow for SIMD programming in higher level languages. They are supported on most modern x86 compilers.
 
