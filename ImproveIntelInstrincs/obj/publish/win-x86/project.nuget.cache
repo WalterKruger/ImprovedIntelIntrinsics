@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rwhVzKDAVM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Runtime.win-x86 (= 8.0.16)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "filePath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x86",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Runtime.win-x86 (= 8.0.16)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "filePath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x86",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Runtime.win-x86 (= 8.0.16)' for 'net8.0-windows7.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "filePath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x86",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\intrinsicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:intrinsicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\searchfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:searchfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\extentioncheckfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:extentioncheckfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|c:\\users\\walte\\source\\repos\\improveintelinstrincs\\intrinsicinfowindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A4AF84-9033-4284-9E59-FE8A9A418B4F}|ImproveIntelInstrincs.csproj|solutionrelative:intrinsicinfowindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.Designer.cs",
+              "RelativeDocumentMoniker": "MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.Designer.cs",
+              "RelativeToolTip": "MainPage.Designer.cs",
+              "ViewState": "AgIAACoFAAAAAAAAAAAAADwFAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:55:26.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntrinsicClass.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\IntrinsicClass.cs",
+              "RelativeDocumentMoniker": "IntrinsicClass.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\IntrinsicClass.cs",
+              "RelativeToolTip": "IntrinsicClass.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T04:51:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T03:53:45.777Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\MainPage.cs",
+              "RelativeToolTip": "MainPage.cs",
+              "ViewState": "AgIAAOwBAAAAAAAAAAAAAPwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:15:28.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchFunction.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\SearchFunction.cs",
+              "RelativeDocumentMoniker": "SearchFunction.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\SearchFunction.cs",
+              "RelativeToolTip": "SearchFunction.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T01:35:51.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IntrinsicInfoWindow.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\IntrinsicInfoWindow.cs",
+              "RelativeDocumentMoniker": "IntrinsicInfoWindow.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\IntrinsicInfoWindow.cs",
+              "RelativeToolTip": "IntrinsicInfoWindow.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T03:43:02.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtentionCheckFunction.cs",
+              "DocumentMoniker": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ExtentionCheckFunction.cs",
+              "RelativeDocumentMoniker": "ExtentionCheckFunction.cs",
+              "ToolTip": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ExtentionCheckFunction.cs",
+              "RelativeToolTip": "ExtentionCheckFunction.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAAAPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T03:28:57.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

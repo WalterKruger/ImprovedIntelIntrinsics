@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bm4r0u9UARY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\walte\\source\\repos\\ImproveIntelInstrincs\\ImproveIntelInstrincs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\walte\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.18\\microsoft.net.illink.tasks.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

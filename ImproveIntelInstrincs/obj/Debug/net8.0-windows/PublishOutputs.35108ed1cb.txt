@@ -1,0 +1,6 @@
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\data.js
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\ImproveIntelInstrincs.exe
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\ImproveIntelInstrincs.dll
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\ImproveIntelInstrincs.deps.json
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\ImproveIntelInstrincs.runtimeconfig.json
+C:\Users\walte\source\repos\ImproveIntelInstrincs\bin\Debug\net8.0-windows\publish\ImproveIntelInstrincs.pdb

@@ -1,0 +1,8 @@
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.pdb
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\data.js
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\D3DCompiler_47_cor3.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\PenImc_cor3.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\PresentationNative_cor3.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\vcruntime140_cor3.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\wpfgfx_cor3.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.exe

@@ -1,0 +1,5 @@
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.exe
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.dll
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.deps.json
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.runtimeconfig.json
+C:\Users\walte\Desktop\Coding\# MSVC\Improved Intrinsic\ImproveIntelInstrincs.pdb
